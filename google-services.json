@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "188673479665",
+    "firebase_url": "https://sms-sending-4da9b.firebaseio.com",
+    "project_id": "sms-sending-4da9b",
+    "storage_bucket": "sms-sending-4da9b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:188673479665:android:04bf53aa4d45374207ea50",
+        "android_client_info": {
+          "package_name": "io.sms.application"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "188673479665-hfa3s0p15kr3eo8aoqov8gbnqtpgcf4m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBwwF8noRubr1jhv0PjCcaUupyFYmspoR0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "188673479665-hfa3s0p15kr3eo8aoqov8gbnqtpgcf4m.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
